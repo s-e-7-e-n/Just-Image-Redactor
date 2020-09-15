@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>addImage.svg</file>
+    <file>apply.svg</file>
+    <file>eraser.svg</file>
+    <file>hsv.svg</file>
+    <file>hsv_contr.svg</file>
+    <file>rgb.svg</file>
+    <file>rgb_contr.svg</file>
+    <file>save.svg</file>
+  </qresource>
+</RCC>
